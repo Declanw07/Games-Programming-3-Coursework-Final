@@ -1,0 +1,27 @@
+﻿  MainGame.cpp
+c:\users\declan\desktop\gp3 courswork\gp3coursework\gp3coursework\maingame.cpp(109): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\declan\desktop\gp3 courswork\gp3coursework\gp3coursework\maingame.cpp(109): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\declan\desktop\gp3 courswork\gp3coursework\gp3coursework\maingame.cpp(128): warning C4244: 'argument': conversion from 'const int' to 'GLfloat', possible loss of data
+  Generating Code...
+  Compiling...
+  cStarfield.cpp
+c:\users\declan\desktop\gp3 courswork\gp3coursework\gp3coursework\cstarfield.cpp(52): warning C4018: '<': signed/unsigned mismatch
+c:\users\declan\desktop\gp3 courswork\gp3coursework\gp3coursework\cstarfield.cpp(89): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\declan\desktop\gp3 courswork\gp3coursework\gp3coursework\cstarfield.cpp(93): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\declan\desktop\gp3 courswork\gp3coursework\gp3coursework\cstarfield.cpp(97): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\declan\desktop\gp3 courswork\gp3coursework\gp3coursework\cstarfield.cpp(101): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\declan\desktop\gp3 courswork\gp3coursework\gp3coursework\cstarfield.cpp(105): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\declan\desktop\gp3 courswork\gp3coursework\gp3coursework\cstarfield.cpp(109): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  cSphere.cpp
+  cShapes.cpp
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  cTexture.cpp
+  cMaterial.cpp
+  cLight.cpp
+  cFontMgr.cpp
+  cFont.cpp
+  cCamera.cpp
+  GameConstants.cpp
+  GP3Coursework.vcxproj -> C:\Users\Declan\Desktop\GP3 Courswork\GP3Coursework\Debug\GP3Coursework.exe
+  GP3Coursework.vcxproj -> C:\Users\Declan\Desktop\GP3 Courswork\GP3Coursework\Debug\GP3Coursework.pdb (Partial PDB)
